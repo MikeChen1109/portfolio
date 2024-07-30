@@ -6,27 +6,27 @@
 - Sr. iOS / Flutter Engineer\
 Working at Jooca Tech\
 Freelance / Remote\
-Mar 2024-present\
+Mar 2024-present
 
 - Flutter Engineer\
 Working at FameEx\
 Full Time / Hybrid\
-Mar 2024- May 2024\
+Mar 2024- May 2024
 
 - Sr. iOS / Flutter Engineer\
 Working at Jooca Tech\
 Full Time / Remote\
-Nov 2021- Mar 2024\
+Nov 2021- Mar 2024
 
 - iOS Engineer\
 Working at 串門子雲盟\
 Full Time / On Site\
-Feb 2021- Sep 2021\
+Feb 2021- Sep 2021
 
 - iOS Engineer\
 Working at 創創數位科技\
 Full Time / On Site\
-May 2018- May 2020\
+May 2018- May 2020
 
 --- 
 # Projects
