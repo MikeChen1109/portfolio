@@ -1,32 +1,32 @@
 # About Me
-### I am Mike, Mobile App Developer
+### Yi Tang (Mike) Chen, Software Engineer – iOS & Flutter 
 ### from Kaohsiung, Taiwan
 --- 
 # Experience 
-- Sr. iOS / Flutter Engineer\
-Working at Jooca Tech\
+- Software Engineer – iOS & Flutter \
+Freelancer (iOS / Flutter) / Remote\
 Freelance / Remote\
 Mar 2024-present
 
-- Flutter Engineer\
-Working at FameEx\
-Full Time / Hybrid\
-Mar 2024- May 2024
+- iOS Engineer\
+Working at Circle internet Froup, Inc.\
+Full Time / Remote\
+Dec 2024- Feb 2025
 
 - Sr. iOS / Flutter Engineer\
-Working at Jooca Tech\
+Working at Jooca Inc.\
 Full Time / Remote\
 Nov 2021- Mar 2024
 
 - iOS Engineer\
-Working at 串門子雲盟\
+Working at LifeLink Cloud Co., Ltd.\
 Full Time / On Site\
-Feb 2021- Sep 2021
+Apr 2020- Jan 2021
 
 - iOS Engineer\
 Working at 創創數位科技\
 Full Time / On Site\
-May 2018- May 2020
+May 2018- Jan 2020
 
 --- 
 # Projects
